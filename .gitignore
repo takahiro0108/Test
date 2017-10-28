@@ -3,8 +3,6 @@
 # =============== #
 Temp/
 Library/
-.git/
-.vs/
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
@@ -32,4 +30,3 @@ obj/
 ehthumbs.db
 Thumbs.db
 /.vs/UnityGitHubTest/v15/Server/sqlite3/db.lock
-*.lock
