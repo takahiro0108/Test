@@ -3,6 +3,8 @@
 # =============== #
 Temp/
 Library/
+.vs/
+.git/
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
